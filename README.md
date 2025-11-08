@@ -40,6 +40,7 @@ generador-de-contrasenas/
 ├── tsconfig.json
 ├── next.config.mjs
 └── postcss.config.mjs
+
 Uso
 1. Selecciona los parámetros para tu contraseña (longitud, símbolos, números, etc.).
 2. Presiona el botón de Generar.
