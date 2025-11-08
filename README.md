@@ -54,4 +54,3 @@ Sigue estos pasos para poner en marcha el proyecto en tu entorno local:
 
 Este proyecto se distribuye bajo la [licencia MIT](https://opensource.org/licenses/MIT). Eres libre de usarlo, modificarlo y compartirlo bajo los términos de dicha licencia.
 
-## Estructura del Proyecto
