@@ -42,24 +42,7 @@ Sigue estos pasos para poner en marcha el proyecto en tu entorno local:
     pnpm dev
     ```
     Luego abre `http://localhost:3000` en tu navegador.
-## Estructura del Proyecto
-generador-de-contrasenas/
-│
-├── app/
-│   ├── layout.tsx
-│   ├── page.tsx
-│   └── globals.css
-│
-├── components/
-│   ├── password-generator.tsx
-│   ├── tooltip.tsx
-│   ├── theme-provider.tsx
-│   └── ui/...
-│
-├── package.json
-├── tsconfig.json
-├── next.config.mjs
-└── postcss.config.mjs
+    
 ## Uso
 
 1.  Selecciona los parámetros para tu contraseña (longitud, símbolos, números, etc.).
@@ -70,6 +53,5 @@ generador-de-contrasenas/
 ## Licencia
 
 Este proyecto se distribuye bajo la [licencia MIT](https://opensource.org/licenses/MIT). Eres libre de usarlo, modificarlo y compartirlo bajo los términos de dicha licencia.
-
 
 ## Estructura del Proyecto
