@@ -70,6 +70,6 @@ generador-de-contrasenas/
 ## Licencia
 
 Este proyecto se distribuye bajo la [licencia MIT](https://opensource.org/licenses/MIT). Eres libre de usarlo, modificarlo y compartirlo bajo los términos de dicha licencia.
-Luego abre `http://localhost:3000` en tu navegador.## Estructura del Proyecto
+
 
 ## Estructura del Proyecto
