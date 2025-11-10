@@ -2,7 +2,7 @@
 
 Aplicación web moderna desarrollada con **Next.js**, **TypeScript** y **Tailwind CSS** que permite generar contraseñas seguras y personalizadas. Su interfaz está diseñada para ser simple, intuitiva y educativa, incorporando *tooltips* informativos para conceptos técnicos.
 
-## Características
+## Características Principales
 
 * Generación de contraseñas seguras con opciones personalizables.
 * Soporte de tema claro y oscuro.
