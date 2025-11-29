@@ -1,4 +1,4 @@
-# Generador de Contraseñas 
+# Generador de Contraseñas  
             
 Aplicación web moderna desarrollada con **Next.js**, **TypeScript** y **Tailwind CSS** que nos permite generar contraseñas seguras y personalizadas. La interfaz está diseñada para ser simple, intuitiva y educativa, incorpora *tooltips* informativos para conceptos técnicos.
 
