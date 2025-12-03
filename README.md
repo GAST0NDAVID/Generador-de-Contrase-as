@@ -43,6 +43,7 @@ Sigue estos pasos para poner en marcha el proyecto en tu entorno local:
     ```
     Luego abre `http://localhost:3000` en tu navegador.
 
+
 ## Estructura del proyecto
 ```
 generador-de-contraseñas/
