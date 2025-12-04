@@ -5,7 +5,7 @@ Aplicación web moderna desarrollada con **Next.js**, **TypeScript** y **Tailwin
 ## Características Principales    
         
 * Generación de contraseñas seguras con opciones personalizables.
-* Soporte de tema claro y oscuro.
+* Soporte de tema claro y oscuro. 
 * *Tooltips* explicativos para términos técnicos.
 * Interfaz adaptable y moderna con componentes `shadcn/ui`.
 * Código modular y fácilmente extensible.
