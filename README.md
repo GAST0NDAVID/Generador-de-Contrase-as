@@ -6,7 +6,7 @@ Aplicación web moderna desarrollada con **Next.js**, **TypeScript** y **Tailwin
         
 * Generación de contraseñas seguras con opciones personalizables.    
 * Soporte de tema claro y oscuro.   
-* *Tooltips* explicativos para términos técnicos.
+* *Tooltips* explicativos para términos técnicos. 
 * Interfaz adaptable y moderna con componentes `shadcn/ui`.
 * Código modular y fácilmente extensible.
 
